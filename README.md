@@ -3,7 +3,7 @@
 
 This repository contains the design files for PCB antenna. PCB Antena is described in the [given PDF][link1_paper_PDF], and it is designed using [Altium designer EDA tool][link2_altium].
 
-For more information about the design of the antenna please see the [Schematics and PCB design files in PDF format][link3_design_PDF].
+For more information about the design of the antenna please see the **[Schematics and PCB design files in PDF format][link3_design_PDF]**.
 
 
 ![alt tag](https://github.com/IRNAS/PCB-Antenna/blob/master/Pics/3D_model.png)
