@@ -6,6 +6,7 @@ This repository contains the design files for PCB antenna. PCB Antena is describ
 For more information about the design of the antenna please see the [Schematics and PCB design files in PDF format][link3_design_PDF].
 
 
+![alt tag](https://github.com/IRNAS/PCB-Antenna/blob/master/Pics/3D_model.png)
 
 ---
 
